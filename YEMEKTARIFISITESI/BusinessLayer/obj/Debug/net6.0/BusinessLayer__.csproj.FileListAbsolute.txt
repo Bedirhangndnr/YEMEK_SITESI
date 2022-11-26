@@ -1,0 +1,5 @@
+C:\Users\bedir\OneDrive\Masaüstü\Web Programming\EducationalProjects\YEMEKTARIFISITESI\YEMEKTARIFISITESI\BusinessLayer\obj\Debug\net6.0\BusinessLayer__.csproj.AssemblyReference.cache
+C:\Users\bedir\OneDrive\Masaüstü\Web Programming\EducationalProjects\YEMEKTARIFISITESI\YEMEKTARIFISITESI\BusinessLayer\obj\Debug\net6.0\BusinessLayer__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\OneDrive\Masaüstü\Web Programming\EducationalProjects\YEMEKTARIFISITESI\YEMEKTARIFISITESI\BusinessLayer\obj\Debug\net6.0\BusinessLayer__.AssemblyInfoInputs.cache
+C:\Users\bedir\OneDrive\Masaüstü\Web Programming\EducationalProjects\YEMEKTARIFISITESI\YEMEKTARIFISITESI\BusinessLayer\obj\Debug\net6.0\BusinessLayer__.AssemblyInfo.cs
+C:\Users\bedir\OneDrive\Masaüstü\Web Programming\EducationalProjects\YEMEKTARIFISITESI\YEMEKTARIFISITESI\BusinessLayer\obj\Debug\net6.0\BusinessLayer__.csproj.CoreCompileInputs.cache
